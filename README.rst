@@ -31,12 +31,12 @@ SciPy and distributed under the 3-Clause BSD license.
 
 The project was started in 2007 by David Cournapeau as a Google Summer
 of Code project, and since then many volunteers have contributed. See
-the `About us <http://scikit-learn.org/dev/about.html#authors>`_ page
+the `About us <https://scikit-learn.org/dev/about.html#authors>`_ page
 for a list of core contributors.
 
 It is currently maintained by a team of volunteers.
 
-Website: http://scikit-learn.org
+Website: https://scikit-learn.org
 
 
 Installation
@@ -62,7 +62,7 @@ scikit-learn also uses CBLAS, the C interface to the Basic Linear Algebra
 Subprograms library. scikit-learn comes with a reference implementation, but
 the system CBLAS will be detected by the build system and used if present.
 CBLAS exists in many implementations; see `Linear algebra libraries
-<http://scikit-learn.org/stable/modules/computing#linear-algebra-libraries>`_
+<https://scikit-learn.org/stable/modules/computing#linear-algebra-libraries>`_
 for known issues.
 
 User installation
@@ -77,13 +77,13 @@ or ``conda``::
 
     conda install scikit-learn
 
-The documentation includes more detailed `installation instructions <http://scikit-learn.org/stable/install.html>`_.
+The documentation includes more detailed `installation instructions <https://scikit-learn.org/stable/install.html>`_.
 
 
 Changelog
 ---------
 
-See the `changelog <http://scikit-learn.org/dev/whats_new.html>`__
+See the `changelog <https://scikit-learn.org/dev/whats_new.html>`__
 for a history of notable changes to scikit-learn.
 
 Development
@@ -91,7 +91,7 @@ Development
 
 We welcome new contributors of all experience levels. The scikit-learn
 community goals are to be helpful, welcoming, and effective. The
-`Development Guide <http://scikit-learn.org/stable/developers/index.html>`_
+`Development Guide <https://scikit-learn.org/stable/developers/index.html>`_
 has detailed information about contributing code, documentation, tests, and
 more. We've included some basic information in this README.
 
@@ -123,7 +123,7 @@ source directory (you will need to have ``pytest`` >= 3.3.0 installed)::
 
     pytest sklearn
 
-See the web page http://scikit-learn.org/dev/developers/advanced_installation.html#testing
+See the web page https://scikit-learn.org/dev/developers/advanced_installation.html#testing
 for more information.
 
     Random number generation can be controlled during testing by setting
@@ -134,7 +134,7 @@ Submitting a Pull Request
 
 Before opening a Pull Request, have a look at the
 full Contributing page to make sure your code complies
-with our guidelines: http://scikit-learn.org/stable/developers/index.html
+with our guidelines: https://scikit-learn.org/stable/developers/index.html
 
 
 Project History
@@ -142,7 +142,7 @@ Project History
 
 The project was started in 2007 by David Cournapeau as a Google Summer
 of Code project, and since then many volunteers have contributed. See
-the  `About us <http://scikit-learn.org/dev/about.html#authors>`_ page
+the  `About us <https://scikit-learn.org/dev/about.html#authors>`_ page
 for a list of core contributors.
 
 The project is currently maintained by a team of volunteers.
@@ -156,9 +156,9 @@ Help and Support
 Documentation
 ~~~~~~~~~~~~~
 
-- HTML documentation (stable release): http://scikit-learn.org
-- HTML documentation (development version): http://scikit-learn.org/dev/
-- FAQ: http://scikit-learn.org/stable/faq.html
+- HTML documentation (stable release): https://scikit-learn.org
+- HTML documentation (development version): https://scikit-learn.org/dev/
+- FAQ: https://scikit-learn.org/stable/faq.html
 
 Communication
 ~~~~~~~~~~~~~
@@ -166,9 +166,9 @@ Communication
 - Mailing list: https://mail.python.org/mailman/listinfo/scikit-learn
 - IRC channel: ``#scikit-learn`` at ``webchat.freenode.net``
 - Stack Overflow: https://stackoverflow.com/questions/tagged/scikit-learn
-- Website: http://scikit-learn.org
+- Website: https://scikit-learn.org
 
 Citation
 ~~~~~~~~
 
-If you use scikit-learn in a scientific publication, we would appreciate citations: http://scikit-learn.org/stable/about.html#citing-scikit-learn
+If you use scikit-learn in a scientific publication, we would appreciate citations: https://scikit-learn.org/stable/about.html#citing-scikit-learn
